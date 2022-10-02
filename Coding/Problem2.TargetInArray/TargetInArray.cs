@@ -4,6 +4,7 @@ namespace Coding.Problem2.TargetInArray
 {
     public class TargetInArray
     {
+        //Massivin targetinin massivdeki ilk ve son sirasini tap
         /* Main Program Code
         int[] arr = { 2, 4, 5, 5, 5, 5, 5, 7, 9, 9 };
         Console.WriteLine("Please enter target:");

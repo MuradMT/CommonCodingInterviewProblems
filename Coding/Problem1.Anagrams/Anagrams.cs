@@ -8,6 +8,7 @@ namespace Coding.Problem1.Anagrams
 {
     public class Anagrams
     {
+        //Dogru anagramlari tap
         /*Main Program Code
         Console.WriteLine("Please enter first string:");
         string first = Console.ReadLine();
