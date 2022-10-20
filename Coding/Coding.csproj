@@ -48,6 +48,7 @@
     <Compile Include="Problem1.Anagrams\Anagrams.cs" />
     <Compile Include="Problem2.TargetInArray\TargetInArray.cs" />
     <Compile Include="Problem3.KthLargestItem\KthLargestItem.cs" />
+    <Compile Include="Problem4.BinaryConverter\BinaryConverter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
