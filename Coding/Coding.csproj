@@ -37,6 +37,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Numerics" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -49,6 +50,7 @@
     <Compile Include="Problem2.TargetInArray\TargetInArray.cs" />
     <Compile Include="Problem3.KthLargestItem\KthLargestItem.cs" />
     <Compile Include="Problem4.BinaryConverter\BinaryConverter.cs" />
+    <Compile Include="Problem5.ConvertStringGivenConsoleToMath\Solution.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
