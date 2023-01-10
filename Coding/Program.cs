@@ -190,23 +190,7 @@ namespace Coding
             //var res = num.ToString().ToCharArray().OrderBy(x => x);
             //Console.WriteLine(int.Parse(new string(res)));
             #endregion
-            List<string> strings= new List<string>()
-            {
-                "Murad",
-                "Seda",
-                "Zulfuqar",
-                "Eltac"
-            };
-            IList<string> list = new List<string>()
-            {
-                "Murad",
-                "Seda",
-                "Zulfuqar",
-                "Eltac"
-            };
             
-            Console.WriteLine(list);
-            Console.WriteLine(strings);
 
             Console.ReadLine();
         }

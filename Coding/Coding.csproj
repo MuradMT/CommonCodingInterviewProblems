@@ -52,6 +52,7 @@
     <Compile Include="Problem4.BinaryConverter\BinaryConverter.cs" />
     <Compile Include="Problem5.ConvertStringGivenConsoleToMath\Solution.cs" />
     <Compile Include="Problem6.ValidPalindrome\ValidPalindrome.cs" />
+    <Compile Include="Problem7.PerfectNumber\PerfectNumber.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
