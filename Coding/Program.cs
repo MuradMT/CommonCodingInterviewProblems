@@ -3,6 +3,7 @@ using Coding.Problem1.Anagrams;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 
 namespace Coding
 {
@@ -128,8 +129,7 @@ namespace Coding
         //}
         #endregion
 
-
-
+        
         static void Main(string[] args)
         {
             #region Mesele10Main
@@ -190,8 +190,24 @@ namespace Coding
             //var res = num.ToString().ToCharArray().OrderBy(x => x);
             //Console.WriteLine(int.Parse(new string(res)));
             #endregion
-            int result = default(int);
-            Console.WriteLine(result);
+            List<string> strings= new List<string>()
+            {
+                "Murad",
+                "Seda",
+                "Zulfuqar",
+                "Eltac"
+            };
+            IList<string> list = new List<string>()
+            {
+                "Murad",
+                "Seda",
+                "Zulfuqar",
+                "Eltac"
+            };
+            
+            Console.WriteLine(list);
+            Console.WriteLine(strings);
+
             Console.ReadLine();
         }
     }
